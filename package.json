@@ -18,10 +18,12 @@
   "homepage": "https://github.com/sergiovhe/wit#readme",
   "dependencies": {
     "@octokit/rest": "^16.36.0",
+    "arg": "^4.1.2",
     "chalk": "^3.0.0",
     "clear": "^0.1.0",
     "clui": "^0.3.6",
     "configstore": "^5.0.0",
+    "esm": "^3.2.25",
     "figlet": "^1.2.4",
     "inquirer": "^7.0.3",
     "lodash": "^4.17.15",
